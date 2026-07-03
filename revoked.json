@@ -1,9 +1,10 @@
 {
   "data": {
     "revoked": [
+      "5ab01a4b",
       "76dd0496"
     ],
     "ts": "2026-07-03"
   },
-  "sig": "ISBdlO3znb3xLJv-xq8KbKSqtikksb9petgGGWRtn5qCDC_LBmI_fbeCFJg9aDTtvKBLpSLKFTdWh8uoa07eDw"
+  "sig": "VooVGOHb1pqlUum7QIMB1yULPKv-e_zoLEolMCHahQb7e_WBWcnAgZE-yuJ-RvD8WSOL3Hlzurh55NannopVCw"
 }
