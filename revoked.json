@@ -1,10 +1,11 @@
 {
   "data": {
     "revoked": [
+      "03159365",
       "5ab01a4b",
       "76dd0496"
     ],
-    "ts": "2026-07-03"
+    "ts": "2026-07-04"
   },
-  "sig": "VooVGOHb1pqlUum7QIMB1yULPKv-e_zoLEolMCHahQb7e_WBWcnAgZE-yuJ-RvD8WSOL3Hlzurh55NannopVCw"
+  "sig": "D2GR9QUSuKLtGGQVA0Pq57dhW2DSSaUctCmxRRBk1DPGcCg0RP7O0C4gQrVDi6_n6-2cFbKU-XvrlzpGTTCJAQ"
 }
